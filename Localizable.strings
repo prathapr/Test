@@ -1,0 +1,90 @@
+//
+// Copyright 2012 ArcTouch, Inc.
+// All rights reserved.
+//
+// This file, its contents, concepts, methods, behavior, and operation
+// (collectively the "Software") are protected by trade secret, patent,
+// and copyright laws. The use of the Software is governed by a license
+// agreement. Disclosure of the Software to third parties, in any form,
+// in whole or in part, is expressly prohibited except as authorized by
+// the license agreement.
+// 
+
+"Features" = "Features You'll Love";
+"PushesEnabledText" = "Push Notifications";
+"AutoLoginEnabledText" = "Keep me logged in";
+"BrowseOnlineHelpText" = "Contact Customer Care";
+"LegalAgreementText" = "Legal Agreement";
+"PerlPromiseText" = "The Pearl Promise";
+"HowItWorksText" = "How it works";
+"HowItWorksHeaderText" = "How It Works";
+"AboutText" = "About";
+"SendFeedback" = "Send feedback";
+"SettingsText" = "Settings";
+"HomeText" = "Home";
+"AskText" = "Ask a Question";
+"GetStartedText" = "GET STARTED";
+"EmailText" = "Email";
+"EnterEmailText" = "Enter your email";
+"PasswordText" = "Password";
+"EnterPasswordText" = "Enter your password";
+"ForgotPasswordQuestion" = "Forgot your password?";
+"SignInTitle" = "Sign In";
+"SignInButtonTitle" = "SIGN IN";
+"SubmitButtonTitle" = "SUBMIT";
+"ForgottenTitle" = "Forgotten Password";
+"ForgottenErrorResponse" = "Smth wrong with your email";
+"CategoriesHeaderText" = "I want to talk with a...";
+"AboutAppTitle" = "About This App";
+"PearlPromiseTitle" = "The Pearl Promise";
+"Cancel" = "Cancel";
+"DONE" = "DONE";
+"Processing" = "Processing";
+"Submitting" = "Submitting Question";
+"SubmittingMessage" = "Submitting Message";
+"Back" = "Back";
+"NotificationText" = "Your question is now being reviewed. We'll alert you as soon as a professional responds.";
+//validation errors
+"SignInEmptyEmail" = "Please enter an email address.";
+"SignInInvalidEmail" = "Please enter a valid email address.";
+"SignInIncorrectEmail" = "It looks like that email and password combination is not in our records. Please try again.";
+"SignInEmptyPassword" = "Please enter a password.";
+"SignInIncorrectPassword" = "It looks like that email and password combination is not in our records. Please try again.";
+"SignInIncorrectEmailAndPassword" = "It looks like that email and password combination is not in our records. Please try again.";
+"SignInCorrectDetailsButSmthWrong" = "To use this app, you must have a Pearl Unlimited membership.  Visit Pearl.com to learn more.";
+"SignInEmptyFields" = "Please fill all fields and try again";
+// home screen
+"QuestionStatusPosted" = "Connecting you with a professional";
+"QuestionStatusOptOut" = "Connecting you with a new professional";
+//Ask Now Button Text 
+"AskNow"="Ask Now";
+"QuestionStatusInfoRequested" = "Info requested, please reply";
+// Disclaimer
+"Disclaimer" = "Disclaimer";
+// NON-subscriber message
+"Non-subscriberTitle" = "Update Your Membership";
+"Non-subscriberMessage" = "To use this app, you must have a Pearl Unlimited membership.  Visit Pearl.com to sign up.";
+"PearlUlimited" = "Pearl Unlimited";
+//Ask question screen
+"TypeOrSpeakTitle" = "Please type or speak your question";
+"AskQuestionPlaceholder" = "Ask your question here";
+"T&CHeader" = "Terms of Service";
+//Dragon UI
+"DragonOverlayTitle" = "Recording";
+"DragonOverlayRecording" = "Recording";
+"DragonSuggestionTitle" = "Sorry, we missed some of that.";
+"DragonSuggestionMessage" = "Tip: Minimize background noise and try again.";
+"ReplyPlaceholder" = "Type or speak your reply";
+"Experience" = "Experience:";
+"TapRatetoFinish" = "Tap \"Rate to Finish\" to end the conversation and rate this professional. To continue talking, tap \"Reply\".";
+"RateToFinish" = "Rate to Finish";
+"Reply" = "Reply";
+"PasswordResetTitle" = "Your password reset has been received";
+"PasswordResetMessage" = "You will receive a new one shortly";
+"SendFeedback" = "Send Feedback";
+
+//errors
+"GenericErrorTitle" = "Error";
+"GenericErrorText" = "An error has occured. \nPlease try again";
+"TimeoutErrorTitle" = "The connection has timed out";
+"TimeoutErrorText" = "Please check your internet connection and try again";
